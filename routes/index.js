@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var template = require('./lib/template.js');
+var template = require('../lib/template.js');
 
 //route, routing
 //app.get('/', (req, res) => res.send('Hello World!'))
